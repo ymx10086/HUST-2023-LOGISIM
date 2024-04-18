@@ -1,0 +1,2 @@
+# HUST-2023-LOGISIM
+2021级HUST硬件综合训练
